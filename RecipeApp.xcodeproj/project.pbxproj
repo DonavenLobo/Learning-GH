@@ -17,6 +17,7 @@
 		C303CE3E268A500000FB2146 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C303CE3D268A500000FB2146 /* DataService.swift */; };
 		C303CE40268B4E5800FB2146 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C303CE3F268B4E5800FB2146 /* RecipeDetailView.swift */; };
 		C303CE42268B9FF800FB2146 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C303CE41268B9FF800FB2146 /* RecipeTabView.swift */; };
+		C303CE44268CB21F00FB2146 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C303CE43268CB21F00FB2146 /* Ingredient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C303CE3D268A500000FB2146 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		C303CE3F268B4E5800FB2146 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		C303CE41268B9FF800FB2146 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
+		C303CE43268CB21F00FB2146 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				C303CE39268A4D5D00FB2146 /* Recipe.swift */,
+				C303CE43268CB21F00FB2146 /* Ingredient.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				C303CE40268B4E5800FB2146 /* RecipeDetailView.swift in Sources */,
 				C303CE3C268A4EB800FB2146 /* RecipeModel.swift in Sources */,
 				C303CE22268A3FAE00FB2146 /* RecipeListView.swift in Sources */,
+				C303CE44268CB21F00FB2146 /* Ingredient.swift in Sources */,
 				C303CE20268A3FAE00FB2146 /* RecipeApp.swift in Sources */,
 				C303CE3E268A500000FB2146 /* DataService.swift in Sources */,
 				C303CE42268B9FF800FB2146 /* RecipeTabView.swift in Sources */,
