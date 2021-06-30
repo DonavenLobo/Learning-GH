@@ -52,6 +52,7 @@
 		C303CE13268A3FAE00FB2146 = {
 			isa = PBXGroup;
 			children = (
+				C303CE1F268A3FAE00FB2146 /* RecipeApp.swift */,
 				C303CE1E268A3FAE00FB2146 /* RecipeApp */,
 				C303CE1D268A3FAE00FB2146 /* Products */,
 			);
@@ -73,7 +74,6 @@
 				C303CE2E268A4B7B00FB2146 /* Model */,
 				C303CE34268A4BBB00FB2146 /* Services */,
 				C303CE32268A4BA500FB2146 /* Data */,
-				C303CE1F268A3FAE00FB2146 /* RecipeApp.swift */,
 				C303CE23268A3FB100FB2146 /* Assets.xcassets */,
 				C303CE28268A3FB100FB2146 /* Info.plist */,
 				C303CE25268A3FB100FB2146 /* Preview Content */,
@@ -101,10 +101,10 @@
 		C303CE2F268A4B8300FB2146 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				C303CE21268A3FAE00FB2146 /* RecipeListView.swift */,
-				C303CE3F268B4E5800FB2146 /* RecipeDetailView.swift */,
 				C303CE41268B9FF800FB2146 /* RecipeTabView.swift */,
 				C303CE45268CE5E300FB2146 /* RecipeFeaturedView.swift */,
+				C303CE21268A3FAE00FB2146 /* RecipeListView.swift */,
+				C303CE3F268B4E5800FB2146 /* RecipeDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
